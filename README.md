@@ -1,6 +1,15 @@
-# evaluation
-Evaluation Resources
+# Resources for Evaluation of LLMs / Generative AI
+This repository includes the slides and some of the notebooks that are used in my Evaluation workshops. 
 
+Some of the notebooks do require an OpenAI API key.
+
+These notebooks are intended for explaining key points of the talk, please don't try to bring them to production use. If you want to dig deeper or have issues, go to the source for each of these projects.
+
+## About the workshop
+
+![image](workshop_one_pager.png)
+
+## Notebook links
 
 Prompting a Chatbot: [Colab notebook](https://colab.research.google.com/github/minimaxir/chatgpt_api_test/blob/main/glados_chatbot.ipynb)
 
