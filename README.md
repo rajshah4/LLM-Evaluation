@@ -21,6 +21,10 @@ LLM Evaluation Harness from EleutherAI: Github or [Colab notebook](https://colab
 
 Ragas showing Model as an evaluator: Github or [Colab notebook](https://colab.research.google.com/drive/1i78-peTBdhK5y4ZskFzC_NtLRaqvySXM)
 
+## Presentation Slides
+Generative AI Summit, Austin (Oct 2023) - [Slides](presentation_slides/EvaluatingLLMs_GenAI_Oct2023_Shah.pdf)
+
+ODSC West, SF (Nov 2023) - Slides
 
 
 
