@@ -29,4 +29,7 @@ Generative AI Summit, Austin (Oct 2023) - [Slides](presentation_slides/Evaluatin
 ODSC West, SF (Nov 2023) - Slides
 
 
+## Other Additional Resources
+Josh Tobin's Evaluation talk [YouTube](https://youtu.be/r-HUnht-Gns?si=5vU3RzXf7Jkprwn1)
 
+Mahesh Deshwal's LLM Evaluation [Google Doc](https://docs.google.com/document/d/1ndYxbN9O7dGKeVXR53B3xHFszniSyho6KLaq-aniDRo/edit#heading=h.j5cyenlrao7z)
