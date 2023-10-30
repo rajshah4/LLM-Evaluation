@@ -3,6 +3,7 @@
 - Data quality from [Owl: A Large Language Model for IT Operations](https://arxiv.org/pdf/2309.09298.pdf)  
 - Factuality from [Arize](https://github.com/Arize-ai/phoenix/blob/21e5e8afd51cbede1051a9561d5dbcef7318597c/src/phoenix/experimental/evals/templates/default_templates.py#L45)  
 - Grading Scale from [Databricks](https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG)
+- Evaluating text/audio from [SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/pdf/2310.13289.pdf)
 
 
 ## Data quality 
@@ -46,3 +47,27 @@ and should not contain any text or characters aside from that word.
 Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question displayed below. Your evaluation should consider factors such as the helpfulness, relevance, accuracy, depth, creativity, and level of detail of the response. Begin your evaluation by providing a short explanation. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 1 to 10 by strictly following this format
 ```
 
+## SALMANN Evaluation Prompts
+To generate audio QA data given audio caption text.
+```
+Below I will give you some sentences that you will need to help
+me generate **only one** question, and its corresponding answer. These sentences are caption of some audio. Your question
+should be highly related to the audio caption, and your answer
+must be **correct**, and should be simple and clear. \n Your response should strictly follow the format below: \n {”Question”:
+”xxx”, ”Answer”: ”xxx”} \n Here are the sentences:
+```
+
+To evaluate whether the model attempts to do the speech audio coreasoning (SAC) task.
+```
+There is an audio clip, and there is a person in the audio asking
+questions. I now have an AI model that needs to go and answer
+the speaker’s question based on the background audio. I’ll tell
+you the question the speaker is asking and the output of my AI
+model, and what you need to determine: whether my AI model
+is trying to answer the question and why. You need to be especially careful that my model may just be describing the audio
+without hearing your question and answering it. You don’t need
+to care about the correctness of the answer. All you need to focus on is whether the model is trying to answer the question.
+Your response needs to follow the format of the python dictionary: {”Response”: ”Yes/No”, ”Reason”: ”xxx”}.\n Question in
+audio: <QUESTION> \n Model Output: <OUTPUT> \n Your
+Response:
+```

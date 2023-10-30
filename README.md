@@ -17,9 +17,11 @@ Testing Properties of a System: [Guidance AI](https://github.com/guidance-ai/gui
 
 Langtest tutorials from John Snow Labs: [Colab Notebooks](http://langtest.org/docs/pages/tutorials/tutorials)
 
-LLM Evaluation Harness from EleutherAI: Github or [Colab notebook](https://colab.research.google.com/drive/1lPHO8wosT72jkhfBbcESsSD56IvpYk9u#scrollTo=asj6HXacKfc_)
+LLM Evaluation Harness from EleutherAI: [Github](LLM_evaluation_harness_for_Arc_Easy_and_SST.ipynb) or [Colab notebook](https://colab.research.google.com/drive/1lPHO8wosT72jkhfBbcESsSD56IvpYk9u#scrollTo=asj6HXacKfc_)
 
-Ragas showing Model as an evaluator: Github or [Colab notebook](https://colab.research.google.com/drive/1i78-peTBdhK5y4ZskFzC_NtLRaqvySXM)
+Ragas showing Model as an evaluator: [Github](ragas_quickstart.ipynb) or [Colab notebook](https://colab.research.google.com/drive/1i78-peTBdhK5y4ZskFzC_NtLRaqvySXM)
+
+Evaluate LLMs and RAG a practical example using Langchain and Hugging Face: [Github](https://github.com/philschmid/evaluate-llms/blob/main/notebooks/01-getting-started.ipynb)
 
 Argilla for Annotation: [Spaces](https://huggingface.co/spaces/argilla/llm-eval) login: admin  password: 12345678
 
