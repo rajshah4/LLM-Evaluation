@@ -28,7 +28,7 @@ Argilla for Annotation: [Spaces](https://huggingface.co/spaces/argilla/llm-eval)
 ## Presentation Slides
 Generative AI Summit, Austin (Oct 2023) - [Slides](presentation_slides/EvaluatingLLMs_GenAI_Oct2023_Shah.pdf)
 
-ODSC West, SF (Nov 2023) - Slides
+ODSC West, San Francisco (Nov 2023) - [Slides](presentation_slides/EvaluatingLLMs_ODSC_Nov2023_Shah.pdf)
 
 
 ## Other Additional Resources
