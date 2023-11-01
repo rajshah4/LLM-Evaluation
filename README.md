@@ -23,6 +23,8 @@ Ragas showing Model as an evaluator: [Github](ragas_quickstart.ipynb) or [Colab 
 
 Evaluate LLMs and RAG a practical example using Langchain and Hugging Face: [Github](https://github.com/philschmid/evaluate-llms/blob/main/notebooks/01-getting-started.ipynb)
 
+MLFlow Automated Evaluation: [Blog](https://www.databricks.com/blog/announcing-mlflow-28-llm-judge-metrics-and-best-practices-llm-evaluation-rag-applications-part)
+
 Argilla for Annotation: [Spaces](https://huggingface.co/spaces/argilla/llm-eval) login: admin  password: 12345678
 
 ## Presentation Slides
