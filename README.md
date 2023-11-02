@@ -15,6 +15,8 @@ Prompting a Chatbot: [Colab notebook](https://colab.research.google.com/github/m
 
 Testing Properties of a System: [Guidance AI](https://github.com/guidance-ai/guidance/blob/main/notebooks/testing_lms.ipynb)
 
+Thumb: Prompt Testing Libary for LLMs: [Github](https://github.com/hammer-mt/thumb)
+
 Langtest tutorials from John Snow Labs: [Colab Notebooks](http://langtest.org/docs/pages/tutorials/tutorials)
 
 LLM Evaluation Harness from EleutherAI: [Github](LLM_evaluation_harness_for_Arc_Easy_and_SST.ipynb) or [Colab notebook](https://colab.research.google.com/drive/1lPHO8wosT72jkhfBbcESsSD56IvpYk9u#scrollTo=asj6HXacKfc_)
@@ -26,6 +28,7 @@ Evaluate LLMs and RAG a practical example using Langchain and Hugging Face: [Git
 MLFlow Automated Evaluation: [Blog](https://www.databricks.com/blog/announcing-mlflow-28-llm-judge-metrics-and-best-practices-llm-evaluation-rag-applications-part)
 
 Argilla for Annotation: [Spaces](https://huggingface.co/spaces/argilla/llm-eval) login: admin  password: 12345678
+
 
 ## Presentation Slides
 Generative AI Summit, Austin (Oct 2023) - [Slides](presentation_slides/EvaluatingLLMs_GenAI_Oct2023_Shah.pdf)
