@@ -35,6 +35,9 @@ Generative AI Summit, Austin (Oct 2023) - [Slides](presentation_slides/Evaluatin
 
 ODSC West, San Francisco (Nov 2023) - [Slides](presentation_slides/EvaluatingLLMs_ODSC_Nov2023_Shah.pdf)
 
+## Videos
+Evaluation for Large Language Models and Generative AI - A Deep Dive - [Youtube](https://youtu.be/iQl03pQlYWY)
+
 
 ## Other Additional Resources
 Josh Tobin's Evaluation talk [YouTube](https://youtu.be/r-HUnht-Gns?si=5vU3RzXf7Jkprwn1)
