@@ -27,6 +27,8 @@ Evaluate LLMs and RAG a practical example using Langchain and Hugging Face: [Git
 
 MLFlow Automated Evaluation: [Blog](https://www.databricks.com/blog/announcing-mlflow-28-llm-judge-metrics-and-best-practices-llm-evaluation-rag-applications-part)
 
+LLM Grader on AWS: [Video](https://youtu.be/HUuO9eJbOTk?si=9tI6Na10QhMFkKHe) and [Notebook](https://github.com/fhuthmacher/LLMevaluation/blob/main/LLMInformationExtraction.ipynb)
+
 Argilla for Annotation: [Spaces](https://huggingface.co/spaces/argilla/llm-eval) login: admin  password: 12345678
 
 
