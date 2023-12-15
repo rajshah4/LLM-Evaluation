@@ -37,6 +37,9 @@ Generative AI Summit, Austin (Oct 2023) - [Slides](presentation_slides/Evaluatin
 
 ODSC West, San Francisco (Nov 2023) - [Slides](presentation_slides/EvaluatingLLMs_ODSC_Nov2023_Shah.pdf)
 
+Arize Holiday Conference (Dec 2023) - [Slides](presentation_slides/Evaluating LLMs_Arize_December2023.pdf)
+
+
 ## Videos
 Evaluation for Large Language Models and Generative AI - A Deep Dive - [Youtube](https://youtu.be/iQl03pQlYWY)
 
