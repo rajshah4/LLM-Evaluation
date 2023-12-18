@@ -41,10 +41,13 @@ Arize Holiday Conference (Dec 2023) - [Slides](presentation_slides/EvaluatingLLM
 
 
 ## Videos
-Evaluation for Large Language Models and Generative AI - A Deep Dive - [Youtube](https://youtu.be/iQl03pQlYWY)
+Evaluation for Large Language Models and Generative AI - A Deep Dive - [YouTube](https://youtu.be/iQl03pQlYWY)
+
+Constructing an Evaluation Approach for Generative AI Models - [YouTube](https://youtu.be/k9s_0PiepNs?si=SZUqNL7BjqCi1W-N&t=6608)
 
 
 ## Other Additional Resources
 Josh Tobin's Evaluation talk [YouTube](https://youtu.be/r-HUnht-Gns?si=5vU3RzXf7Jkprwn1)
 
 Mahesh Deshwal's LLM Evaluation [Google Doc](https://docs.google.com/document/d/1ndYxbN9O7dGKeVXR53B3xHFszniSyho6KLaq-aniDRo/edit#heading=h.j5cyenlrao7z)
+ 
