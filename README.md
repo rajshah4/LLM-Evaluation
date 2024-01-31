@@ -34,7 +34,7 @@ Argilla for Annotation: [Spaces](https://huggingface.co/spaces/argilla/llm-eval)
  LLM AutoEval for RunPod by Maxime Labonne [Colab](https://colab.research.google.com/drive/1Igs3WZuXAIv9X0vwqiE90QlEPys8e8Oa)
 
 
-## Presentation Slides
+## Conference Presentations
 Generative AI Summit, Austin (Oct 2023) - [Slides](presentation_slides/EvaluatingLLMs_GenAI_Oct2023_Shah.pdf)
 
 ODSC West, San Francisco (Nov 2023) - [Slides](presentation_slides/EvaluatingLLMs_ODSC_Nov2023_Shah.pdf)
@@ -46,6 +46,8 @@ Arize Holiday Conference (Dec 2023) - [Slides](presentation_slides/EvaluatingLLM
 Evaluation for Large Language Models and Generative AI - A Deep Dive - [YouTube](https://youtu.be/iQl03pQlYWY)
 
 Constructing an Evaluation Approach for Generative AI Models - [YouTube](https://youtu.be/PtXOQDHPddE?si=PQ4N1B2mX2d_9PwC&t=147)
+
+Large Language Models (LLMs) Can Explain Their Predictions - [YouTube](https://youtu.be/9RFz3cQ9NqE?si=IvhEgOFZugQTr5Ku) & [Slides](presentation_slides/ExplanationsLLMs_Jan2024.pdf)
 
 
 ## Other Additional Resources
