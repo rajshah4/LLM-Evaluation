@@ -31,7 +31,9 @@ LLM Grader on AWS: [Video](https://youtu.be/HUuO9eJbOTk?si=9tI6Na10QhMFkKHe) and
 
 Argilla for Annotation: [Spaces](https://huggingface.co/spaces/argilla/llm-eval) login: admin  password: 12345678
 
- LLM AutoEval for RunPod by Maxime Labonne [Colab](https://colab.research.google.com/drive/1Igs3WZuXAIv9X0vwqiE90QlEPys8e8Oa)
+LLM AutoEval for RunPod by Maxime Labonne [Colab](https://colab.research.google.com/drive/1Igs3WZuXAIv9X0vwqiE90QlEPys8e8Oa)
+
+Evaluating LLM responses with Marvin [Githb](https://github.com/abigailhaddad/LMGradingRubric/blob/master/code/Walkthrough.ipynb)
 
 
 ## Conference Presentations
