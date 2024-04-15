@@ -43,6 +43,7 @@ ODSC West, San Francisco (Nov 2023) - [Slides](presentation_slides/EvaluatingLLM
 
 Arize Holiday Conference (Dec 2023) - [Slides](presentation_slides/EvaluatingLLMs_Arize_December2023.pdf)  
 
+Data Innovation Conference (Apr 2024) - [Slides](presentation_slides/DataInnovation_Apr_2024.pdf)
 
 ## Videos
 Evaluation for Large Language Models and Generative AI - A Deep Dive - [YouTube](https://youtu.be/iQl03pQlYWY)
