@@ -5,6 +5,8 @@ Some of the notebooks do require an OpenAI API key.
 
 These notebooks are intended for explaining key points of the talk, please don't try to bring them to production use. If you want to dig deeper or have issues, go to the source for each of these projects.
 
+**I will do a updated workshop in April 2025, so look for updates here**
+
 ## About the workshop
 
 ![image](workshop_one_pager.png)
@@ -56,5 +58,6 @@ Large Language Models (LLMs) Can Explain Their Predictions - [YouTube](https://y
 ## Other Additional Resources
 Josh Tobin's Evaluation talk [YouTube](https://youtu.be/r-HUnht-Gns?si=5vU3RzXf7Jkprwn1)
 
-Mahesh Deshwal's LLM Evaluation [Google Doc](https://docs.google.com/document/d/1ndYxbN9O7dGKeVXR53B3xHFszniSyho6KLaq-aniDRo/edit#heading=h.j5cyenlrao7z)
- 
+[Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps?tab=readme-ov-file#llmops)
+
+LLM Evaluation [Tooling Review](https://www.atla-ai.com/post/llm-evaluation-tooling-review)
