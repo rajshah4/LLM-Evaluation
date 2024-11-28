@@ -17,13 +17,13 @@ Prompting a Chatbot: [Colab notebook](https://colab.research.google.com/github/m
 
 Testing Properties of a System: [Guidance AI](https://github.com/guidance-ai/guidance/blob/main/notebooks/testing_lms.ipynb)
 
-Thumb: Prompt Testing Libary for LLMs: [Github](https://github.com/hammer-mt/thumb)
-
 Langtest tutorials from John Snow Labs: [Colab Notebooks](http://langtest.org/docs/pages/tutorials/tutorials)
 
 LLM Evaluation Harness from EleutherAI: [Github](LLM_evaluation_harness_for_Arc_Easy_and_SST.ipynb) or [Colab notebook](https://colab.research.google.com/drive/1lPHO8wosT72jkhfBbcESsSD56IvpYk9u#scrollTo=asj6HXacKfc_)
 
 Ragas showing Model as an evaluator: [Github](ragas_quickstart.ipynb) or [Colab notebook](https://colab.research.google.com/drive/1i78-peTBdhK5y4ZskFzC_NtLRaqvySXM)
+
+Ragas using LangFuse: [Colab notebook](https://colab.research.google.com/github/langfuse/langfuse-docs/blob/main/cookbook/evaluation_of_rag_with_ragas.ipynb)
 
 Evaluate LLMs and RAG a practical example using Langchain and Hugging Face: [Github](https://github.com/philschmid/evaluate-llms/blob/main/notebooks/01-getting-started.ipynb)
 
@@ -34,8 +34,6 @@ LLM Grader on AWS: [Video](https://youtu.be/HUuO9eJbOTk?si=9tI6Na10QhMFkKHe) and
 Argilla for Annotation: [Spaces](https://huggingface.co/spaces/argilla/llm-eval) login: admin  password: 12345678
 
 LLM AutoEval for RunPod by Maxime Labonne [Colab](https://colab.research.google.com/drive/1Igs3WZuXAIv9X0vwqiE90QlEPys8e8Oa)
-
-Evaluating LLM responses with Marvin [Githb](https://github.com/abigailhaddad/LMGradingRubric/blob/master/code/Walkthrough.ipynb)
 
 
 ## Conference Presentations
