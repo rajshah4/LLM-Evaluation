@@ -5,7 +5,7 @@ Some of the notebooks do require an OpenAI API key.
 
 These notebooks are intended for explaining key points of the talk, please don't try to bring them to production use. If you want to dig deeper or have issues, go to the source for each of these projects.
 
-**I will do a updated workshop in April 2025, so look for updates here**
+**I will do a updates slides for my May 2025 ODSC workshop**
 
 ## About the workshop
 
@@ -41,7 +41,7 @@ Arize Holiday Conference (Dec 2023) - [Slides](presentation_slides/EvaluatingLLM
 
 Data Innovation Conference (Apr 2024) - [Slides](presentation_slides/DataInnovation_Apr_2024.pdf)
 
-ODSC East, Boston (May 2025) - Soon
+ODSC East, Boston (May 2025) - [Slides](presentation_slides/Evaluation_ODSC_May_2025.pdf)
 
 ## Videos
 Evaluation for Large Language Models and Generative AI - A Deep Dive - [YouTube](https://youtu.be/iQl03pQlYWY)
