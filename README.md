@@ -4,8 +4,8 @@ This repository includes the slides and some of the notebooks that are used in m
 Some of the notebooks do require an OpenAI API key.
 
 These notebooks are intended for explaining key points of the talk, please don't try to bring them to production use. If you want to dig deeper or have issues, go to the source for each of these projects.
-
-**I will do a updates slides for my May 2025 ODSC workshop**
+y
+**Updated with my May 2025 ODSC workshop**
 
 ## About the workshop
 
@@ -30,6 +30,8 @@ MLFlow Automated Evaluation: [Blog](https://www.databricks.com/blog/announcing-m
 LLM Grader on AWS: [Video](https://youtu.be/HUuO9eJbOTk?si=9tI6Na10QhMFkKHe) and [Notebook](https://github.com/fhuthmacher/LLMevaluation/blob/main/LLMInformationExtraction.ipynb)
 
 LLM AutoEval for RunPod by Maxime Labonne [Colab](https://colab.research.google.com/drive/1Igs3WZuXAIv9X0vwqiE90QlEPys8e8Oa)
+
+Agno and Langfuse with a Research Agent: [Github](ResearchAgent_Agno_LangFuse.ipynb)
 
 
 ## Conference Presentations
