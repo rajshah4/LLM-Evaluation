@@ -1,15 +1,29 @@
-# Resources for Evaluation of LLMs / Generative AI
-This repository includes the slides and some of the notebooks that are used in my Evaluation workshops. 
+# Resources for Evaluation of LLMs / Generative AI / RAG
+This repository includes the slides and some of the notebooks that are used in my Evaluation and RAG workshops. 
 
 Some of the notebooks do require an OpenAI API key.
 
 These notebooks are intended for explaining key points of the talk, please don't try to bring them to production use. If you want to dig deeper or have issues, go to the source for each of these projects.
 y
-**Updated with my May 2025 ODSC workshop**
+**Updated with my Octobert 2025 MLOps workshop**
 
 ## About the workshop
 
 ![image](workshop_one_pager.png)
+
+## Conference Presentations
+Generative AI Summit, Austin (Oct 2023) - [Slides](presentation_slides/EvaluatingLLMs_GenAI_Oct2023_Shah.pdf)
+
+ODSC West, San Francisco (Nov 2023) - [Slides](presentation_slides/EvaluatingLLMs_ODSC_Nov2023_Shah.pdf)
+
+Arize Holiday Conference (Dec 2023) - [Slides](presentation_slides/EvaluatingLLMs_Arize_December2023.pdf)  
+
+Data Innovation Conference (Apr 2024) - [Slides](presentation_slides/DataInnovation_Apr_2024.pdf)
+
+ODSC East, Boston (May 2025) - [Slides](presentation_slides/Evaluation_ODSC_May_2025.pdf)
+
+MLOps Generative AI Summit, Austin (Oct 2023) - [Slides](presentation_slides/RAG_Oct2025.pdf)
+
 
 ## Notebook links
 
@@ -32,18 +46,6 @@ LLM Grader on AWS: [Video](https://youtu.be/HUuO9eJbOTk?si=9tI6Na10QhMFkKHe) and
 LLM AutoEval for RunPod by Maxime Labonne [Colab](https://colab.research.google.com/drive/1Igs3WZuXAIv9X0vwqiE90QlEPys8e8Oa)
 
 Agno and Langfuse with a Research Agent: [Github](ResearchAgent_Agno_LangFuse.ipynb)
-
-
-## Conference Presentations
-Generative AI Summit, Austin (Oct 2023) - [Slides](presentation_slides/EvaluatingLLMs_GenAI_Oct2023_Shah.pdf)
-
-ODSC West, San Francisco (Nov 2023) - [Slides](presentation_slides/EvaluatingLLMs_ODSC_Nov2023_Shah.pdf)
-
-Arize Holiday Conference (Dec 2023) - [Slides](presentation_slides/EvaluatingLLMs_Arize_December2023.pdf)  
-
-Data Innovation Conference (Apr 2024) - [Slides](presentation_slides/DataInnovation_Apr_2024.pdf)
-
-ODSC East, Boston (May 2025) - [Slides](presentation_slides/Evaluation_ODSC_May_2025.pdf)
 
 ## Videos
 Evaluation for Large Language Models and Generative AI - A Deep Dive - [YouTube](https://youtu.be/iQl03pQlYWY)
