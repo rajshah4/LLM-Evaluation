@@ -22,7 +22,7 @@ Data Innovation Conference (Apr 2024) - [Slides](presentation_slides/DataInnovat
 
 ODSC East, Boston (May 2025) - [Slides](presentation_slides/Evaluation_ODSC_May_2025.pdf)
 
-MLOps Generative AI Summit, Austin (Oct 2023) - [Slides](presentation_slides/RAG_Oct2025.pdf)
+MLOps Generative AI Summit, Austin (Oct 2025) - [Slides](presentation_slides/RAG_Oct2025.pdf)
 
 
 ## Notebook links
