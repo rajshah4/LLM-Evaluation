@@ -47,6 +47,9 @@ LLM AutoEval for RunPod by Maxime Labonne [Colab](https://colab.research.google.
 
 Agno and Langfuse with a Research Agent: [Github](ResearchAgent_Agno_LangFuse.ipynb)
 
+Building resilient prompts using an evaluation flywheel [Open AI](
+https://cookbook.openai.com/examples/evaluation/building_resilient_prompts_using_an_evaluation_flywheel)
+
 ## Videos
 Evaluation for Large Language Models and Generative AI - A Deep Dive - [YouTube](https://youtu.be/iQl03pQlYWY)
 
