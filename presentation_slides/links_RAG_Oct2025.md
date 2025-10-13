@@ -6,7 +6,7 @@ Presented at 6th Annual MLOps World | GenAI Summit 2025 on October 2025.
 
 ## Presentation Materials
 - **[Slides for talk (PDF)](./RAG_Presentation_Oct2025.pdf)**
-- **[Video of talk (YouTube)](https://youtu.be/3IGHl1pUKF8)**
+- **[Video of talk (YouTube)](https://youtu.be/AS_HlJbJjH8)**
 
 
 ## Getting Started & Foundational Concepts
