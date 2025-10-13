@@ -5,7 +5,7 @@ Some of the notebooks do require an OpenAI API key.
 
 These notebooks are intended for explaining key points of the talk, please don't try to bring them to production use. If you want to dig deeper or have issues, go to the source for each of these projects.
 y
-**Updated with my Octobert 2025 MLOps workshop**
+**Updated with my Octobert 2025 RAG Deep Dive workshop**
 
 ## About the workshop
 
@@ -22,7 +22,8 @@ Data Innovation Conference (Apr 2024) - [Slides](presentation_slides/DataInnovat
 
 ODSC East, Boston (May 2025) - [Slides](presentation_slides/Evaluation_ODSC_May_2025.pdf)
 
-MLOps Generative AI Summit, Austin (Oct 2025) - [Slides](presentation_slides/RAG_Oct2025.pdf)
+MLOps Generative AI Summit, Austin (Oct 2025) - [Links](presentation_slides/links_RAG_Oct2025.md) and 
+[Slides](presentation_slides/RAG_Oct2025.pdf) and [Video](https://youtu.be/3IGHl1pUKF8)
 
 
 ## Notebook links
