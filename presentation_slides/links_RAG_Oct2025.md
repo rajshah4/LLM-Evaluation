@@ -1,6 +1,6 @@
 
 
-# RAG Deep Dive Presentation Links - October 2025
+# RAG Deep Dive Presentation References - October 2025
 
 Presented at 6th Annual MLOps World | GenAI Summit 2025 on October 2025.
 
