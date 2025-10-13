@@ -5,8 +5,9 @@
 Presented at 6th Annual MLOps World | GenAI Summit 2025 on October 2025.
 
 ## Presentation Materials
-- **[Slides for talk (PDF)](./RAG_Presentation_Oct2025.pdf)** - Complete presentation slides (PDF)
-- **[Video of talk (Youtube)(https://youtu.be/3IGHl1pUKF8)
+- **[Slides for talk (PDF)](./RAG_Presentation_Oct2025.pdf)**
+- **[Video of talk (YouTube)](https://youtu.be/3IGHl1pUKF8)**
+
 
 ## Getting Started & Foundational Concepts
 - **[Why GenAI Projects Fail](https://www.zeta-alpha.com/post/why-genai-pilots-fail-common-challenges-with-enterprise-rag)** - Common challenges with enterprise RAG
