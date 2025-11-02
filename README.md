@@ -26,7 +26,7 @@ MLOps Generative AI Summit, Austin (Oct 2025) - [References](presentation_slides
 [Slides](presentation_slides/RAG_Oct2025.pdf) and [Video](https://youtu.be/AS_HlJbJjH8)
 
 ODSC West, Virtual (Oct 2025) - [References](presentation_slides/references_Evaluation_ODSC_Oct2025.md) and 
-[Slides](presentation_slides/Evaluation_ODSC_Oct_2025.pdf)
+[Slides](presentation_slides/Evaluation_ODSC_Oct_2025.pdf) and [Video](https://youtu.be/qPHsWTZP58U)
 
 
 
